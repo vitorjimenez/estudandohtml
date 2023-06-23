@@ -1,0 +1,30 @@
+.content{
+    background-color:bisque;
+    content: flex;
+    padding:50px;
+    text-align: justify;
+    list-style-type: none;
+}
+
+#content-main{
+    background-color:bisque;
+    content: flex;
+    padding:50px;
+    text-align: justify;
+    list-style-type: none;
+}
+
+.header-main{
+    background-color:antiquewhite;
+    padding: 20px;
+
+}
+
+.header{
+    background-color:antiquewhite;
+    padding: 20px;
+
+}
+*{
+    font-family: sans-serif;
+}
